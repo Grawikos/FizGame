@@ -1,0 +1,16 @@
+X X X X X X X X X X X X X X X X 3
+E E E E E E E E E E E E E E E E
+X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X
+0 X X X 0 X X X 0 X X X 0 X X X
+0 0 X 0 X 0 X 0 X 0 X 0 X 0 X 0
+P X 0 X 0 X 0 X 0 X 0 X 0 X 0 X
+0 Y 0 Y 0 Y 0 Y 0 Y 0 Y 0 Y 0 Y
+0 0 Y 0 Y 0 Y 0 Y 0 Y 0 Y 0 Y 0
+0 Y Y Y 0 Y Y Y 0 Y Y Y 0 Y Y Y
+Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y
+Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y
+Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y
+E E E E E E E E E E E E E E E E
+Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y

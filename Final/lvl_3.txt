@@ -1,0 +1,16 @@
+X X X X X X X X X X X X X X X X 3
+X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X
+X X X Y X X Y Y Y Y X X Y X X X
+X X X X X X X X X X X X X X X X
+X X X 0 X X X P 0 X X X 0 X X X
+X X X 0 X X X 0 0 X X X 0 X X X
+X X X 0 X X X X X X X X 0 X X X
+X X X 0 X Y Y X X Y Y X 0 X X X
+X X X 0 X X X X X X X X 0 X X X
+X X X X X X X Y Y X X X X X X X
+X X X X X X X Y Y X X X X X X X
+X X X X X X X Y Y X X X X X X X
+X X X X X X X Y Y X X X X X X X
+X X X X X X X Y Y X X X X X X X
+X X X X X X X E E X X X X X X X

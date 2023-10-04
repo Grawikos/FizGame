@@ -1,0 +1,16 @@
+X X X X X X X X X X X X X X X X 4
+X X X X X X X X X X X X X X X X
+0 0 0 0 0 0 0 0 0 0 Y X X Y X E
+X 0 X 0 X X X X X X X 0 X X X X
+Y Y X X X X X X X X X Y X 0 0 X
+Y X X 0 X X X X X X X Y X Y 0 X
+Y X X X X X X X X X X Y X X 0 X
+Y 0 0 0 0 0 0 X X X X Y X X Y 0
+0 0 X X X X 0 X X X X 0 X X X 0
+0 0 X X X X 0 X X X X 0 X X X 0
+Y 0 0 0 0 0 0 X X Y 0 0 Y Y Y X
+X X X X X X X X X X X 0 X X X X
+P Y X X X X X X X X X 0 X X X X
+X 0 X X X X X X X X X 0 X X X X
+Y X Y X X X X X X X X 0 X X X X
+Y Y Y 0 0 0 0 0 Y Y X 0 X X X X
